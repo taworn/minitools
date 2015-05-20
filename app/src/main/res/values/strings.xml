@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mini Tools</string>
+    <string name="about_message">Mini Tools, version 1.1.3</string>
+    <string name="about_title">Mini Tools</string>
+    <string name="ok">OK</string>
+    <string name="settings_file">div.minitools.ini</string>
+    <string name="settings_alt_theme">alt_theme</string>
+    <string name="search_hint">Google is all.</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+    <string name="main_flashlight">Flashlight</string>
+    <string name="main_compass">Compass</string>
+    <string name="main_display_metrics">Display Metrics</string>
+    <string name="main_base_converter">Base Converter</string>
+    <string name="main_calculator">Calculator</string>
+    <string name="title_activity_flashlight">Flashlight</string>
+    <string name="title_activity_compass">Compass</string>
+    <string name="title_activity_display_metrics">Display Metrics</string>
+    <string name="title_activity_base_converter">Base Converter</string>
+    <string name="title_activity_calculator">Calculator</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_help">Help</string>
+    <string name="flashlight_blink">Blink level</string>
+    <string name="flashlight_switch">Light switch</string>
+    <string name="help">Mini Tools\n\
+The mini tools of easier for Android.\n\
+\n\
+Mini Tools is a collection of 5 apps.  It includes Flashlight, Compass, Display Metrics, Base Converter and Calculator.\n\
+\n\
+Flashlight is a light when you are in the dark.\n\
+\n\
+Compass is a magnet which always point to the North.\n\
+\n\
+Display Metrics is a screen resolution for installing app.  It displays about dpi, scale dpi, width, height and diagonal screen size.\n\
+\n\
+Base Converter is numeric base 2, 8, 10 and 16.  You can type in any base, and app will converts to the rest bases.\n\
+\n\
+Calculator is a real time converter between binary, octal, decimal and hexadecimal.\n\
+\n\
+My English language is poor.  Sorry and thank you. :)</string>
+
+</resources>
